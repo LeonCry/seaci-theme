@@ -2,14 +2,15 @@
   "name": "seaci-theme",
   "displayName": "Seaci Theme",
   "description": "a nice looking theme",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/LeonCry/seaci-theme"
   },
   "publisher": "seaci",
+  "icon": "README.assets/icon.png",
   "engines": {
-    "vscode": "^1.88.0"
+    "vscode": "^1.64.0"
   },
   "keywords": [
     "theme",
