@@ -1,16 +1,27 @@
-# seaci-theme README
+![icon](README.assets/icon.png)
 
-## Working with Markdown
+# Seaci-Theme for VSCode
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+---
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+![shoot](README.assets/shot.jpg)
 
-## For more information
+**A nice looking dark theme for VSCode.**
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/miguelsolorio.min-theme)
+
+## INSTALLATION
+
+1. Open Extensions on VSCode.
+2. Search `Seaci theme`.
+3. Select `Seaci theme` and install.
+
+
+
+## License
+
+[MIT License](LICENSE) 
+
+
 
 **Enjoy!**
