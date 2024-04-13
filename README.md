@@ -1,4 +1,5 @@
-![icon](README.assets/icon.png)
+<div align=center><img src="README.assets/icon.png" alt="icon" style="zoom:50%;" /></div>
+
 
 # Seaci-Theme for VSCode
 
