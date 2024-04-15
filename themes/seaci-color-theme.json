@@ -4,7 +4,7 @@
   "colors": {
     // Base Colors #ff0000
     "focusBorder": "#777777",
-    "foreground": "#f9e9cd90",
+    "foreground": "#bebebe",
     "disabledForeground": "#777777",
     "widget.shadow": "#00000045",
     "selection.background": "#ffffff20",
@@ -248,8 +248,8 @@
     {
       "scope": ["punctuation.definition", "punctuation.definition.quote.begin.markdown", "punctuation.definition.tag", "punctuation.section.embedded"],
       "settings": {
-        "foreground": "#ffffff5f",
-        "fontStyle": "italic"
+        "foreground": "#ffffff5f"
+        // "fontStyle": "italic"
       }
     },
     {
