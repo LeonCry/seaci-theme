@@ -3,8 +3,8 @@
   "type": "dark",
   "colors": {
     // Base Colors #ff0000
-    "focusBorder": "#777777",
-    "foreground": "#bebebe",
+    "focusBorder": "#a4a4a4",
+    "foreground": "#a5a5a5",
     "disabledForeground": "#777777",
     "widget.shadow": "#00000045",
     "selection.background": "#ffffff20",
@@ -48,7 +48,7 @@
     "list.focusOutline": "#ffffff3c",
     "list.highlightForeground": "#5cb4ccc6",
     "list.hoverBackground": "#242424",
-    "list.inactiveSelectionBackground": "#202020",
+    "list.inactiveSelectionBackground": "#282828",
     "list.filterMatchBackground": "#ffffff3b",
     "list.filterMatchBorder": "#ffffff00",
     // Activity Bar
