@@ -261,7 +261,7 @@
     {
       "scope": ["constant.numeric", "variable.other.enummember", "keyword.operator.plus.exponent", "keyword.operator.minus.exponent"],
       "settings": {
-        "foreground": "#c481a0"
+        "foreground": "#e4a0c0"
       }
     },
     {
@@ -409,7 +409,7 @@
     {
       "scope": "storage",
       "settings": {
-        "foreground": "#ed9cc2"
+        "foreground": "#e4a0c0"
       }
     },
     {
@@ -470,34 +470,34 @@
     {
       "scope": "keyword.control", // ???
       "settings": {
-        "foreground": "#d78db0"
+        "foreground": "#e4a0c0"
       }
     },
     {
       "scope": "keyword.operator", //符号
       "settings": {
-        "foreground": "#d78db0"
+        "foreground": "#e4a0c0"
       }
     },
     {
       //new delete 操作符
       "scope": ["keyword.operator.new", "keyword.operator.expression", "keyword.operator.cast", "keyword.operator.sizeof", "keyword.operator.alignof", "keyword.operator.typeid", "keyword.operator.alignas", "keyword.operator.instanceof", "keyword.operator.logical.python", "keyword.operator.wordlike"],
       "settings": {
-        "foreground": "#d78db0"
+        "foreground": "#e4a0c0"
       }
     },
     {
       //css单位
       "scope": "keyword.other.unit",
       "settings": {
-        "foreground": "#d78db0"
+        "foreground": "#e4a0c0"
       }
     },
     {
       // ???
       "scope": ["punctuation.section.embedded.begin.php", "punctuation.section.embedded.end.php"],
       "settings": {
-        "foreground": "#d78db0"
+        "foreground": "#e4a0c0"
       }
     },
     {
@@ -650,7 +650,7 @@
   ],
   "semanticHighlighting": true,
   "semanticTokenColors": {
-    "newOperator": "#d78db0",
+    "newOperator": "#e4a0c0",
     "stringLiteral": "#74ccaa",
     "customLiteral": "#f6c177",
     "numberLiteral": "#f6c177"
