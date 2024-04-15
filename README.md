@@ -1,6 +1,5 @@
 <div align=center><img src="README.assets/icon.png" alt="icon" style="zoom:50%;" /></div>
 
-
 # Seaci-Theme for VSCode
 
 ---
@@ -17,12 +16,12 @@
 2. Search `Seaci theme`.
 3. Select `Seaci theme` and install.
 
+## THANKS
 
+This project is based on [Moegi Theme](https://github.com/moegi-design/vscode-theme).
 
-## License
+## LICENSE
 
-[MIT License](LICENSE) 
-
-
+[MIT License](LICENSE)
 
 **Enjoy!**

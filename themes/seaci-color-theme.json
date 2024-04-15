@@ -41,7 +41,7 @@
     "progressBar.background": "#ffffffcf",
     // List and trees
     "list.activeSelectionBackground": "#202020",
-    "list.activeSelectionForeground": "#f9e8d0",
+    "list.activeSelectionForeground": "#ffffff",
     "list.dropBackground": "#ffffff12",
     "list.focusBackground": "#ffffff12",
     "list.focusHighlightForeground": "#5cb3cc",
@@ -67,7 +67,7 @@
     "minimap.findMatchHighlight": "#66b3959f",
     "minimap.selectionHighlight": "#7098d49f",
     "minimap.errorHighlight": "#ff8787",
-    "minimap.background": "#292929",
+    "minimap.background": "#202020",
     "minimapSlider.background": "#ffffff12",
     "minimapSlider.hoverBackground": "#ffffff2f",
     "minimapSlider.activeBackground": "#ffffff3f",
@@ -126,7 +126,7 @@
     // Editor widget colors
     "editorWidget.background": "#181818",
     "editorSuggestWidget.background": "#181818",
-    "editorSuggestWidget.selectedBackground": "#181818",
+    "editorSuggestWidget.selectedBackground": "#242424",
     "editorHoverWidget.statusBarBackground": "#202020",
     "editorHoverWidget.border": "#282828",
     "editorHoverWidget.background": "#202020",
