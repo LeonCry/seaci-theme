@@ -273,13 +273,13 @@
     {
       "scope": ["entity.name.tag", "entity.name.tag.css", "support.class.component"], //tag
       "settings": {
-        "foreground": "#db7177"
+        "foreground": "#e6787e"
       }
     },
     {
       "scope": "entity.other.attribute-name", //className
       "settings": {
-        "foreground": "#c3a376"
+        "foreground": "#d3b080"
       }
     },
     {
@@ -415,19 +415,19 @@
     {
       "scope": "storage.type", //关键字
       "settings": {
-        "foreground": "#db7177"
+        "foreground": "#e6787e"
       }
     },
     {
       "scope": ["storage.modifier", "keyword.operator.noexcept"], //async
       "settings": {
-        "foreground": "#db7177"
+        "foreground": "#e6787e"
       }
     },
     {
       "scope": ["string", "meta.embedded.assembly", "punctuation.definition.string"], //"string文字"
       "settings": {
-        "foreground": "#78b99b"
+        "foreground": "#75bf9d"
       }
     },
     {
@@ -470,13 +470,13 @@
     {
       "scope": "keyword.control", // ???
       "settings": {
-        "foreground": "#c481a0"
+        "foreground": "#d78db0"
       }
     },
     {
       "scope": "keyword.operator", //符号
       "settings": {
-        "foreground": "#c481a0"
+        "foreground": "#d78db0"
       }
     },
     {
@@ -518,7 +518,7 @@
       "name": "coloring of the Java import and package identifiers",
       "scope": ["storage.modifier.import.java", "variable.language.wildcard.java", "storage.modifier.package.java"],
       "settings": {
-        "foreground": "#6cbd9e"
+        "foreground": "#77d1af"
       }
     },
     {
@@ -541,7 +541,7 @@
         "entity.name.operator.custom-literal" // See https://en.cppreference.com/w/cpp/language/user_literal
       ],
       "settings": {
-        "foreground": "#5fb5be"
+        "foreground": "#62AEEE"
       }
     },
     {
@@ -565,7 +565,7 @@
       "name": "Control flow / Special keywords",
       "scope": ["keyword.control", "source.cpp keyword.operator.new", "keyword.operator.delete", "keyword.other.using", "keyword.other.operator", "entity.name.operator"],
       "settings": {
-        "foreground": "#c481a0"
+        "foreground": "#dc92b4"
       }
     },
     {
@@ -579,21 +579,21 @@
         "constant.other.placeholder" // placeholders in strings
       ],
       "settings": {
-        "foreground": "#8b8dd8"
+        "foreground": "#9598f9"
       }
     },
     {
       "name": "Constants and enums",
       "scope": ["variable.other.constant", "variable.other.enummember"],
       "settings": {
-        "foreground": "#8b8dd8"
+        "foreground": "#9598f9"
       }
     },
     {
       "name": "Object keys, TS grammar specific",
       "scope": ["meta.object-literal.key"],
       "settings": {
-        "foreground": "#8b8dd8"
+        "foreground": "#9598f9"
       }
     },
     {
