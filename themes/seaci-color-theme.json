@@ -541,7 +541,7 @@
         "entity.name.operator.custom-literal" // See https://en.cppreference.com/w/cpp/language/user_literal
       ],
       "settings": {
-        "foreground": "#62AEEE"
+        "foreground": "#73b9c1"
       }
     },
     {
@@ -579,21 +579,21 @@
         "constant.other.placeholder" // placeholders in strings
       ],
       "settings": {
-        "foreground": "#8e92eb"
+        "foreground": "#9fa3e9"
       }
     },
     {
       "name": "Constants and enums",
       "scope": ["variable.other.constant", "variable.other.enummember"],
       "settings": {
-        "foreground": "#8e92eb"
+        "foreground": "#9fa3e9"
       }
     },
     {
       "name": "Object keys, TS grammar specific",
       "scope": ["meta.object-literal.key"],
       "settings": {
-        "foreground": "#8e92eb"
+        "foreground": "#9fa3e9"
       }
     },
     {
