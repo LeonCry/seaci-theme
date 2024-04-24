@@ -4,7 +4,11 @@
 
 ---
 
+<b>Dark-theme: </b>
 ![shoot](README.assets/shot.jpg)
+
+<b>Light-theme: </b>
+![shoot](README.assets/light.jpg)
 
 **A nice looking dark theme for VSCode.**
 
@@ -18,7 +22,9 @@
 
 ## THANKS
 
-This project is based on [Moegi Theme](https://github.com/moegi-design/vscode-theme).
+The Dark-theme is based on [Moegi Theme](https://github.com/moegi-design/vscode-theme).
+
+The Light-theme is based on [Eva Theme](https://github.com/fisheva/Eva-Theme).
 
 ## LICENSE
 
