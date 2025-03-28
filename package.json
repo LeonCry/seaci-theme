@@ -2,7 +2,7 @@
   "name": "seaci-theme",
   "displayName": "Seaci Theme",
   "description": "a nice looking theme",
-  "version": "0.2.5",
+  "version": "0.3.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/LeonCry/seaci-theme"
@@ -22,7 +22,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "seaci-Shadow",
+        "label": "seaci-base",
+        "uiTheme": "vs-dark",
+        "path": "./themes/seaciBase-color-theme.json"
+      },
+      {
+        "label": "seaci-shadow",
         "uiTheme": "vs-dark",
         "path": "./themes/seaciShadow-color-theme.json"
       },
