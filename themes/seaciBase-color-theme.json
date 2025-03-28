@@ -1,5 +1,5 @@
 {
-  "name": "Seaci Shadow",
+  "name": "Seaci Base",
   "type": "dark",
   "colors": {
     // Base Colors #ff0000
@@ -74,7 +74,7 @@
     // Editor Groups & Tabs
     "editorGroupHeader.tabsBackground": "#262626",
     "editorGroupHeader.tabsBorder": "#262626",
-    "tab.activeBackground": "#262626",
+    "tab.activeBackground": "#363636",
     "tab.activeBorder": "#ffffffef",
     "tab.inactiveBackground": "#262626",
     "tab.border": "#262626",
@@ -442,7 +442,7 @@
     {
       "scope": "storage",
       "settings": {
-        "foreground": "#e4a0c0"
+        "foreground": "#E3CBEB"
       }
     },
     {
@@ -464,7 +464,8 @@
         "keyword.operator.noexcept"
       ], //async
       "settings": {
-        "foreground": "#7aa7e1"
+        "foreground": "#FFCCE0",
+        "fontStyle": "bold"
       }
     },
     {
@@ -550,14 +551,14 @@
         "keyword.operator.wordlike"
       ],
       "settings": {
-        "foreground": "#e4a0c0"
+        "foreground": "#E3CBEB"
       }
     },
     {
       //css单位
       "scope": "keyword.other.unit",
       "settings": {
-        "foreground": "#e4a0c0"
+        "foreground": "#E3CBEB"
       }
     },
     {
@@ -567,7 +568,7 @@
         "punctuation.section.embedded.end.php"
       ],
       "settings": {
-        "foreground": "#e4a0c0"
+        "foreground": "#E3CBEB"
       }
     },
     {
@@ -657,7 +658,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#D2CCFF"
+        "foreground": "#ffcce0"
       }
     },
     {
@@ -807,7 +808,7 @@
       "settings": {
         "foreground": "#C8C8C8"
       }
-    }
+    },
   ],
   "semanticHighlighting": true,
   "semanticTokenColors": {
