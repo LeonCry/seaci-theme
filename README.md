@@ -4,6 +4,9 @@
 
 ---
 
+<b>Base-dark-theme: </b>
+![shoot](README.assets/base.jpg)
+
 <b>Dark-theme: </b>
 ![shoot](README.assets/shot.jpg)
 
