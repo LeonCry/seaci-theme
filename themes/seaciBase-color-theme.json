@@ -2,7 +2,6 @@
   "name": "Seaci Base",
   "type": "dark",
   "colors": {
-    // Base Colors #ff0000
     "focusBorder": "#a4a4a4",
     "foreground": "#a5a5a5",
     "disabledForeground": "#777777",
